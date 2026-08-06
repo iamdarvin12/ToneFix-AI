@@ -144,6 +144,43 @@ python test_data.py
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+The application's landing page where users can enter a message for tone analysis.
+
+![Home Page](screenshots/home.png)
+
+---
+
+### 🔍 Tone Analysis Result
+
+Displays the predicted communication tone along with the confidence score.
+
+![Tone Analysis](screenshots/prediction.png)
+![Tone Analysis](screenshots/prediction1.png)
+![Tone Analysis](screenshots/prediction2.png)
+![Tone Analysis](screenshots/prediction3.png)
+---
+
+### 📝 Message History
+
+Shows previously analyzed messages for quick reference.
+
+![Message History](screenshots/history.png)
+
+---
+
+
+
+### ℹ️ About Page
+
+Provides information about the project and its objectives.
+
+![About](screenshots/about.png)
+
+---
 
 
 
